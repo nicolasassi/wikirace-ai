@@ -1,0 +1,11 @@
+click==7.1.2
+gensim==4.0.1
+joblib==1.0.1
+mwparserfromhell==0.6
+nltk==3.6.2
+numpy==1.20.2
+python-dotenv==0.17.0
+regex==2021.4.4
+scipy==1.6.2
+smart-open==5.0.0
+tqdm==4.60.0
